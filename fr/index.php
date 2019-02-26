@@ -2,6 +2,7 @@
 Author: PENAYE LANDO Cyrille Bertrand
 Author URL: http://mboageek.com
 -->
+
 <?php 
     $url = "http://localhost/portalgis";
 
